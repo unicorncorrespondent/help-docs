@@ -1,0 +1,131 @@
+First Prompt
+# Help Document Reorganization Task
+
+## Context
+I'm reorganizing the PaddleHelix online help documentation from `../../../../../02-Input/files/HelpDoc-20260126.md ` into a structured markdown format suitable for biology graduate students (rather than computer science experts).
+
+## Input Sources
+1. **Content source**: All pages within `../../../../../02-Input/files/HelpDoc-20260126.md ` (gather all relevant information)
+2. **Structure guide**: Excel table at `toWrite/Instruction.xlsx` defines the organization structure
+3. **Target files**: Directory at current directory contains named .md files corresponding to the structure
+
+## EXECUTION MODE: DRY-RUN
+
+**DO NOT modify any existing files yet.** Instead:
+
+1. Create a `DRY_RUN_REPORT.md` file with:
+   - Content mapping plan (which source content → which target .md file)
+   - List of pages that will be updated
+   - Preview of transformations for 2-3 example pages
+   - Flags for pages that need splitting (>5 TLDR points)
+   - Any ambiguities or questions found
+
+2. For each target .md file, create a preview in a `dry_run_previews/` directory showing:
+   - Current content (if any)
+   - Proposed new content
+   - Side-by-side comparison if file exists
+
+3. Generate a summary table:
+```
+   | Target File | Status | Source Pages | TLDR Count | Flags |
+   |-------------|--------|--------------|------------|-------|
+   | file1.md    | Update | FAQ#1, #3    | 4          | ✓ OK  |
+   | file2.md    | Create | Tutorial#2   | 6          | ⚠️ Split needed |
+```
+
+**After I review and approve the dry-run, I'll ask you to proceed with actual implementation.**
+
+---
+
+## Your Tasks
+
+### 1. Information Gathering
+- Scrape/read all content from `../../../../../02-Input/files/HelpDoc-20260126.md `
+- Cross-reference with the Excel structure table to understand which content goes where
+
+### 2. Content Distribution Planning
+- Map gathered information to the corresponding .md files based on the Excel structure
+- Identify which files will be **UPDATED** vs **CREATED**
+- Flag any content that doesn't clearly map to existing structure
+
+### 3. Content Transformation (Preview Mode)
+- **Audience**: Write for biology graduate students, not CS experts
+- **Style**: Reader-oriented, explaining "what" and "why" before "how"
+- **Technical simplification**: Replace jargon with plain language, add explanatory context
+- **Preservation**: Keep original technical content in markdown comments like `<!-- ORIGINAL: [technical text] -->`
+
+### 4. Apply Standard Page Format
+
+Each page must follow this structure:
+```
+# [Title]
+
+**[What this page aims to do - subtitle as 1-2 short sentences]**
+
+[Introduction paragraph: big picture context - what is this topic and why does it matter? Help readers understand why they should read this page]
+
+## TLDR
+
+- [Key point 1]
+- [Key point 2]
+- [Key point 3]
+- [Key point 4 - if needed]
+
+[Rest of page content...]
+```
+
+**TLDR Guidelines**:
+- Target: 3-4 bullet points
+- Maximum: 5 bullet points
+- **⚠️ FLAG** if you need more than 5 points - this indicates the page has too much content and should be split
+
+### 5. Quality Checks (Preview)
+- Review for logical flow between sections
+- Check readability for the target audience (bio grad students)
+- Ensure consistency in terminology and style across pages
+- Verify all original technical details are preserved in comments
+
+## Dry-Run Deliverables
+
+1. **`DRY_RUN_REPORT.md`** - Overview and execution plan
+2. **`dry_run_previews/`** - Directory with preview versions of all files
+3. **Summary table** - Quick reference of what will change
+4. **Flags and questions** - Anything that needs my decision/clarification
+
+## Post-Approval: Actual Implementation
+
+Once I approve the dry-run, you will:
+- Apply all changes to the actual .md files in [PATH_TO_MD_DIRECTORY]
+- Generate a final completion report with:
+  - List of files updated/created
+  - Any issues encountered
+  - Recommendations for further improvements
+
+---
+
+## Setup Information Needed
+
+Before starting, confirm:
+- `[PATH_TO_EXCEL]`: [YOUR_PATH_HERE]
+- `[PATH_TO_MD_DIRECTORY]`: [YOUR_PATH_HERE]
+- Any specific terminology preferences or glossary to follow?
+- Any pages that should be prioritized or handled differently?
+
+
+---
+Second Prompt
+1. 我需要你将过于简介的内容（如，列表代替必要的段落描述）修改为完整的句子或段落表述。你应当以 `../*.md` 中的 introduction 作为案例，增加每个页面标题以下，TLDR以上的 introduction部份，让用户更好理解页面的内容，并增加页面之间的连贯性。
+2. TLDR部份也需要使用完整的表述，也请参考`../*.md` 中的快速预览部份，使用完整的句子进行表述，因为可能有新用户阅读，因此文字需要尽可能友善
+3. 请将所有页面下方的 原始来源 中的链接 替换为 完整文字内容，这样能够方便我后续修改
+4. 最后，请将所有非FAQ页面中的问题转移至专门的FAQ页面，避免冗余，请记住，一个页面只做一件事情
+---
+Third Prompt
+1. 请补充C-03系列的introduction，案例见`../*.md`
+2. 请检查 E-04 系列自训练内容，是否在参考文档 `../reference.md`中有对应文本内容，如果没有，请删除该模块并重新整理文档结构，更新对应链接
+---
+Forth Prompt
+我已经开始 review 这些文档并发现了一些问题，请你进行一个系列一个系列进行修改
+1. 对于有 `//[注释文字]` 的内容，请按照注释文字对文档响应部份进行修改
+2. 对于所有文档，请在每级 title 下加入一段过渡文字，让每一个部份的切换更加自然，也为用户提供一些理解的 context
+3. 在 `上一页/下一页`部份上下添加分割线 `---`，以便区分文档主要内容与功能区域，请参考D系列文档
+在完成一个系列的修改时，请将修改内容逐个文档列出，方便检查缺漏

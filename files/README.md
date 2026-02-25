@@ -1,0 +1,1 @@
+This folder contains files for online help document that needs to be worked on. This is the main working folder for the project.

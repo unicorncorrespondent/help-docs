@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+
+# Docusaurus artifacts
+paddlehelix-docs/node_modules/
+paddlehelix-docs/.docusaurus/
+paddlehelix-docs/build/
+
+# Local editor/tooling
+.claude/
