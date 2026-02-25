@@ -44,10 +44,3 @@
 | `Hbond_CYS_108 & Hydrophobic_ALA_107` | 与 CYS_108 形成氢键 **且** 与 ALA_107 形成疏水作用 |
 | `!Hbond_CYS_108` | **不** 与 CYS_108 形成氢键 |
 | `(Hbond_CYS_108\|Hydrophobic_ALA_107)&PiPi_ALA_107` | 满足前两个条件之一 **且** 与 ALA_107 形成 π-π 堆积 |
-
-
----
-上一步：[分子库配置](./D-02-04-MolecularLibrary.md)
-下一步：[查看结果](./D-02-06-ScreeningResults.md)
-
-

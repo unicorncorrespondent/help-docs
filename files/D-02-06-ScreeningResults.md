@@ -42,10 +42,3 @@
 点击右上角可切换显示的指标：
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/helixvs%20%E7%BB%93%E6%9E%9C%E9%A1%B5%20%E5%8F%B3%E4%B8%8A%E8%A7%92%20%E6%8C%87%E6%A0%87%E5%88%87%E6%8D%A2%20%E4%B8%AD%E6%96%87-92169452.jpg" style="zoom:80%;" />
-
----
-
-上一步：[筛选参数设置](./D-02-05-ScreeningParameters.md)
-下一步：[返回小分子药物研发概述](../D-00-00-ChemicalMain.md)
-
-

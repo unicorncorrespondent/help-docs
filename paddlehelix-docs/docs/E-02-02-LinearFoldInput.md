@@ -68,11 +68,3 @@ LinearFold 提供三种参数，方便您根据实际情况进行选择与调整
 启用后可返回与 MFE 相近的次优结构，该结构的自由能与最低自由能结构（lowest free energy structure）的自由能相近。调整的能量差越小，则次优极与最低自由能结构的自由能差越接近。可以用于多结构比较分析。
 
 > ⚠️ 注意：`结构约束` 与 `次优结构` 不能同时启用。
-
-
----
-
-上一步：[LinearFold 概述](./E-02-01-LinearFoldOverview)
-下一步：[LinearFold 结果解读](./E-02-03-LinearFoldResults)
-
-

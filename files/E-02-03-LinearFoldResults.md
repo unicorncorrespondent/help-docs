@@ -47,10 +47,3 @@
 下载文件为 `.txt` 格式，包含输入序列、二级结构表示及相关结果信息。
 
 ![Download Format](https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA4XtBd9ip5Hm46JrcVull3f.png)
-
-
----
-
-上一步：[LinearFold 输入与参数](./E-02-02-LinearFoldInput.md)
-下一步：[LinearPartition 结果](./E-03-03-LinearPartitionResults.md)
-

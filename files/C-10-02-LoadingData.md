@@ -63,8 +63,3 @@ SMNPPPPETSNPNKPKRQTNQLQYLLRVVLKTLWKHQFAWPFQQPVDAVKLNLPDYYKIIKTPMDMGTIKKRLENNYYWN
 - [其他参数](./C-01-07-OtherParameters.md)：包括 Recycle 数量、推理数量、输出格式等
 
 在等待任务完成的过程中，欢迎点击链接进入对应页面进行了解。
-
----
-
-上一步：[案例背景](./C-10-01-ExampleBackground.md)
-下一步：[结果解读](./C-10-03-InterpretingResults.md)

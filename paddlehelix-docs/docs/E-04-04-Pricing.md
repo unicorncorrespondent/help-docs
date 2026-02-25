@@ -29,8 +29,3 @@ HelixUTRDesign 支持以下支付方式：
 - [计费与价格 - 完整定价信息](./F-02-02-Price)
 - [点券系统说明](./F-02-03-CouponExplained)
 - [账号管理](./F-02-01-Account)
-
-
-上一步：[HelixUTRDesign 结果解读](./E-04-03-HelixUTRDesignResults)
-
-

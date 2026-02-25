@@ -1659,16 +1659,3 @@ ADMET预测使用基线模型的结果页展示中，有PAINS预警的结构会�
 根据给定的蛋白质序列快速设计出蛋白质表达水平更高的mRNA序列，﻿可以用于mRNA疫苗的开发。
 
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA7PBUg9_FZHpYyZyheFIaEn.png" alt="img" style="zoom:50%;" />
-
-
----
-
-下一步：[联系我们](./F-04-01-ContactUs.md)
-
----
-
-## 原始来源
-
-本文档内容整理自 PaddleHelix 帮助文档 `HelpDoc-20260126.md` 源文档中的"3.0 版本"和"2.0 版本系列"章节，源文档锚点 ID 分别为 `<a id="fe0b6fb"></a>` 和 `<a id="ab4d215"></a>`，对应行号范围为第 5628-5680 行和第 5698-5970 行。
-
-**源文档完整路径**：`../../../../../../../../02-Input/files/HelpDoc-20260126.md`

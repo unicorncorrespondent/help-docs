@@ -54,11 +54,3 @@
 > ⚠️ 注意：如果您上传的参考5‘UTR序列长度与您设置的UTR长度不一致，模型将以您设置的UTR长度为准。
 
 ![](https://bml-test-test.bj.bcebos.com/helix_upload/5%27utr%20%E8%BE%93%E5%85%A5%E9%A1%B5%20%E5%8F%82%E8%80%83%20%E4%B8%AD%E6%96%87-20332979-d1127fe7.jpeg)
-
-
----
-
-上一步：[HelixUTRDesign 概述](./E-04-01-HelixUTRDesignOverview.md)
-下一步：[HelixUTRDesign 结果解读](./E-04-03-HelixUTRDesignResults.md)
-
-

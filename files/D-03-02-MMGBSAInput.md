@@ -9,12 +9,3 @@
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/mmgbsa%20%E8%BE%93%E5%85%A5%E9%A1%B5%E4%B8%8A%E4%BC%A0%20%E4%B8%AD%E6%96%87-eb0e72b6.jpg" style="zoom:50%;" />
 
 您可以选择是否要指定参考小分子。如果指定了参考小分子，则MMGBSA会计算所有其他小分子相对该参考小分子的能量变化。
-
-
----
-
-上一步：[MMGBSA 概述](./D-03-01-MMGBSA.md)
-下一步：[参数配置](./D-03-03-MMGBSAParameters.md)
-
-
-

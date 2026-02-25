@@ -50,10 +50,3 @@
 | Fv 区域缺失 ≤2 aa | 尝试自动修复 |
 | Fv 区域缺失 >2 aa | 拒绝任务 |
 | Fc 区域缺失 >2 aa | 移除 Fc 区域后设计 |
-
----
-
-上一步：[抗体设计](./C-03-00-HelixDesignAntibody.md)
-下一步：[设计区域选择](./C-03-02-SelectDesignRegion.md)
-
----

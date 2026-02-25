@@ -119,8 +119,3 @@ chain iptm 结果显示，VCB 复合物结构稳定，PROTAC 42 分子能够有�
 - [mRNA 药物研发](./E-00-00-mRNAMain.md)：预测 RNA 二级结构，设计高表达的 CDS 序列
 - [小分子药物研发](./D-00-00-ChemicalMain.md)：设计、预测、筛选小分子药物
 - [常见问题](./F-01-01-FAQ.md)：解答使用过程中的常见疑问
-
----
-
-上一步：[数据输入](./C-10-02-LoadingData.md)
-下一步：[返回快速上手](./C-10-00-CaseTutorial.md)

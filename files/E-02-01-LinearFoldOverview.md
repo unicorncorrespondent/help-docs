@@ -18,21 +18,17 @@ LinearFold 是第一个能够根据输入的 RNA 序列在线性时间内准确�
 | 超长序列支持 | 最长支持 10 万 nt 序列输入 | 满足 rRNA、lncRNA 等长链分析 |
 | 长距离配对识别 | 对 500+ nt 远程碱基配对有较好识别能力 | 辅助功能结构与关键位点判断 |
 
-## 什么时候选择 LinearPartition？
-
-如果您不仅需要一个单一结构结果，还希望模拟 RNA 序列在平衡态时成千上万种不同结构的分布，并查看每对碱基的配对概率，建议选择 [LinearPartition 概述](./E-03-01-LinearPartitionOverview.md)。
-
-简而言之：
-- 需要快速获得单一二级结构：使用 LinearFold
-- 需要结构分布与概率分析：使用 LinearPartition
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/linearfold-385f2e57.png" style="zoom:50%;" />
 
 <center>LinearFold的二级结构预测只需要线性时间</center>
 
----
+## 什么时候选择 LinearFold？
 
-上一步：[返回 mRNA 药物研发概述](./E-00-00-mRNAMain.md)
-下一步：[LinearFold 输入与参数](./E-02-02-LinearFoldInput.md)
+当您只需要一个单一结构结果时，您可以选择使用 LinearFold 进行 RNA 二级结构预测。
 
----
+如果您不仅需要一个单一结构结果，还希望模拟 RNA 序列在平衡态时成千上万种不同结构的分布，并查看每对碱基的配对概率，建议选择 [LinearPartition ](./E-03-01-LinearPartitionOverview.md)。
+
+简而言之：
+- 需要快速获得单一二级结构：使用 LinearFold
+- 需要结构分布与概率分析：使用 LinearPartition

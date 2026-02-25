@@ -22,12 +22,3 @@ HelixUTRDesign模型能够根据用户输入的CDS序列，生成指定长度的
 | 基于 CDS 的 5'UTR 生成 | 输入 CDS，自动生成指定长度 5'UTR | 降低人工设计成本 |
 | 翻译效率导向优化 | 结合模型预测核糖体载量（MRL） | 更快筛选高表达候选序列 |
 | 参考序列约束设计 | 支持输入参考 5'UTR 做定向优化 | 便于在既有方案上迭代 |
-
-
-
----
-
-上一步：[LinearPartition 结果解读](./E-03-03-LinearPartitionResults.md)
-下一步：[HelixUTRDesign 输入与参数](./E-04-02-HelixUTRDesignInput.md)
-
-

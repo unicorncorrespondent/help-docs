@@ -116,8 +116,6 @@ AUGUAA...
 
 ---
 
-上一步：[LinearDesign 概述](./E-05-01-LinearDesignOverview)
-下一步：[参数配置](./E-05-03-LinearDesignParameters)
 
 ---
 
@@ -180,9 +178,3 @@ AUGUAA...
 | Basic | ≤ 500 aa | ≤ 1500 nt |
 | Plus | ≤ 500 aa | ≤ 1500 nt |
 | Advance | ≤ 2000 aa | ≤ 6000 nt |
-
----
-
-上一步：[LinearDesign 概述](./E-05-01-LinearDesignOverview)
-下一步：[参数配置](./E-05-03-LinearDesignParameters)
-

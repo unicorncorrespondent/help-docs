@@ -43,8 +43,3 @@
 3. 点击「确定」保存裁剪结果
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%B0%8F%E8%9B%8B%E7%99%BD%E8%AE%BE%E8%AE%A1-%E8%BE%93%E5%85%A5-%E8%B0%83%E6%95%B4%E9%9D%B6%E7%82%B9%E9%93%BE%E5%8C%BA%E5%9F%9F-%E4%B8%AD%E6%96%87-55ced5d2.jpg" style="zoom:100%;" />
-
----
-上一步：[选择设计模式](./C-02-01-SelectDesignMode)
-下一步：[设置参考 Binder](./C-02-03-UploadReferenceBinder)
-

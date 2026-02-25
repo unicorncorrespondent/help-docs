@@ -128,8 +128,3 @@
 点击结果页中的「下载」按钮导出结果文件，下载结果为 `.txt`。
 
 ![Download](https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA70D3lBeWpLiKl7F8p4TuCU.png)
-
----
-
-上一步：[参数配置](./E-05-03-LinearDesignParameters.md)
-下一步：[LinearDesign 计费与价格](./E-05-05-Pricing.md)

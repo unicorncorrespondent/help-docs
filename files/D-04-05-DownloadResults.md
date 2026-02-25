@@ -28,9 +28,3 @@
 
 
 ![Download Content](https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA7uc-gdTXlLrZvpZLh3bqDO.png)
-
-
----
-
-上一步：[查看结果](./D-04-04-Results.md)
-下一步：[返回分子设计概述](./D-04-00-HelixVS-Syn.md)

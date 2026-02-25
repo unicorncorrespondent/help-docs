@@ -37,9 +37,3 @@ AUCGGCAUCGGCAUCGGCAUCGGCAUCGGCAUCGGC...
 | 序列长度 | 单条不超过 10 万 nt |
 
 ![Input Interface](https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA6GCpV_KPJIDK29yR-lPqZA.png)
-
-
----
-
-上一步：[LinearPartition 概述](./E-03-01-LinearPartitionOverview.md)
-下一步：[LinearPartition 结果解读](./E-03-03-LinearPartitionResults.md)

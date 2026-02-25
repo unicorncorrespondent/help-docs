@@ -112,12 +112,3 @@ PaddleHelix 平台采用按模块计费模式。普通账户可免费升级为�
 ## 欠费处理
 
 平台会检查您的账户是否处于欠费状态，欠费时，平台所有功能将不可用。请您前往[充值](https://login.bce.baidu.com/?account=&redirect=https%3A%2F%2Fconsole.bce.baidu.com%2Ffinance%2Frecharge)以恢复使用。
-
-
-上一步：[账号管理](./F-02-01-Account)
-下一步：[点券系统](./F-02-03-CouponExplained)
-
-
-
-
-

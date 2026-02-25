@@ -29,11 +29,3 @@ HelixADMET 是百度螺旋桨团队研发的端到端 ADMET 预测系统，将�
 
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/helixadmet-43493927.jpg" style="zoom:30%;" />
-
-
-
-
-
----
-
-下一步：[数据输入](./D-01-01-ADMETInput)

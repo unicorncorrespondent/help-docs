@@ -24,11 +24,3 @@
 - .txt文件：包含最多1000个SMILES表达式，每个SMILES分子独占一行
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA63k0WZl_pKXYebYuOC0IXw.png" style="zoom:50%;" />
 > 可以点击“上传范本下载”查看示例文件
-
-
----
-
-上一步：[HelixADMET](./D-01-00-HelixADMET.md)
-下一步：[结果解读](./D-01-02-ADMETResults.md)
-
----

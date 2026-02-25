@@ -79,10 +79,3 @@
 2. 可同时在画布上查看多个结构
 
 ![Multi Structure](https://bml-test-test.bj.bcebos.com/helix_upload/3d%E8%A7%86%E7%AA%97%20%E7%9C%BC%E7%9D%9B%20%E5%A4%9A%E9%80%89%20%E7%A4%BA%E6%84%8F%20%E5%88%86%E5%AD%90%E5%AF%B9%E6%8E%A5%20%E5%88%86%E5%AD%90%E7%94%9F%E6%88%90-8774e126.jpg)
-
----
-
-上一步：[定义骨架与生长位点](./D-04-03-Scaffold.md)
-下一步：[下载结果](./D-04-05-DownloadResults.md)
-
-

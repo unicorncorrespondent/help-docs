@@ -37,9 +37,3 @@
 所有结果可通过结果页面下方的「下载」按钮导出，下载文件为 `.txt` 格式。
 
 ![Download Button](https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA7KwXUJ0aZJPakAmZmBwA9y.png)
-
----
-
-上一步：[LinearPartition 输入与参数](./E-03-02-LinearPartitionInput.md)
-下一步：[HelixUTRDesign 结果](./E-04-03-HelixUTRDesignResults.md)
-

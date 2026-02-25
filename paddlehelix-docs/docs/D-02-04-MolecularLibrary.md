@@ -66,11 +66,3 @@ HelixVS 集成了多个商业分子库，这些库经过质量控制，化合物
 您可以点击「上传范本下载」获取示例文件格式
 
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA4XETKaHjtJwZ1vdrXV4Yx1.png" style="zoom:50%;" />
-
-
-
----
-
-上一步：[定义结合位点](./D-02-03-DefineBindingSite)
-下一步：[筛选参数设置](./D-02-05-ScreeningParameters)
-

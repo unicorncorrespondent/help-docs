@@ -40,10 +40,3 @@ HelixFold-S1 是增强版本的模型，更适合在链间交互显著的体系�
 | S1 不支持单链任务 | HelixFold-S1 需要至少两条链 |
 | S1 暂不支持化学修饰 | 如需使用化学修饰，请选择 HelixFold3 |
 | S1 不支持 Recycle | 模型设计差异，不影响预测质量 |
-
----
-
-上一步：[结构预测](./C-01-00-StructurePredictionOverview)
-下一步：[序列输入](./C-01-02-Input)
-
----

@@ -31,7 +31,3 @@ HelixDesignAntibody 对 RCSB 数据库最新发布的141例抗原-抗体复合�
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E6%8A%97%E4%BD%93%E5%8F%91%E7%8E%B0%E5%9C%BA%E6%99%AF1-f6135cb7.png" style="zoom:50%;" />
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E6%8A%97%E4%BD%93%E5%8F%91%E7%8E%B0%E5%9C%BA%E6%99%AF2-4c122fbd.png" style="zoom:50%;" />
-
-
-下一步：[结构输入](./C-03-01-InputComplex.md)
-

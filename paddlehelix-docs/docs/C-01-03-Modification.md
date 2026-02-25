@@ -60,9 +60,3 @@ DNA 实体支持快速添加反向互补序列，具体添加操作如下
 - 在原有的实体数据下会自动新增一条实体类型为DNA，且序列为反向互补序列的实体数据。
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/hf3%20dna%20%E5%AE%8C%E6%88%90%E5%8F%8D%E5%90%91%E4%BA%92%E8%A1%A5%20%E4%B8%AD%E6%96%87-f20a4864.jpg" style="zoom:50%;" />
-
-
----
-
-上一步：[序列输入](./C-01-02-Input)
-下一步：[指定相互作用](./C-01-04-ForcedInteraction)

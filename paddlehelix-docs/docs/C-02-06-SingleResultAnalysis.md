@@ -1,4 +1,4 @@
-# 结果解读
+# 单项分析
 
 > 深入分析单个 Binder 设计结果
 
@@ -9,7 +9,8 @@
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%B0%8F%E8%9B%8B%E7%99%BD-%E7%BB%93%E6%9E%9C%E9%A1%B5-%E5%8D%95%E9%A1%B9-%E6%80%BB%E8%A7%88-fe19735b.jpg" style="zoom:50%;" />
 
- 页面主要包含导航栏、整体评价、三维结构图、详细分析四个核心模块。
+
+页面主要包含导航栏、整体评价、三维结构图、详细分析四个核心模块。
 
 ## 导航栏
 
@@ -31,7 +32,7 @@
 
 其中**红色区域**表示对应指标的**警告区间**，提示该指标可能偏低，需要结合具体任务需求进行进一步判断或验证。红色警告区间对应的参考阈值与参数解读见[参数解读](./C-02-07-ResultsInterpretation)。
 
-<img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%B0%8F%E8%9B%8B%E7%99%BD-%E7%BB%93%E6%9E%9C%E9%A1%B5-%E5%8D%95%E9%A1%B9-%E9%9B%B7%E8%BE%BE%E5%9B%BE-%E4%B8%AD%E6%96%87-1d35f240.jpg>
+<img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%B0%8F%E8%9B%8B%E7%99%BD-%E7%BB%93%E6%9E%9C%E9%A1%B5-%E5%8D%95%E9%A1%B9-%E9%9B%B7%E8%BE%BE%E5%9B%BE-%E4%B8%AD%E6%96%87-1d35f240.jpg">
 
 
 结构质量描述（仅供参考）对当前结构给出简要的文字化评价，辅助理解整体表现。
@@ -126,11 +127,3 @@ Predicted Aligned Error（预测对齐误差）热力图：
 - 绿色区域：推荐/理想区间
 - 红色区域：告警区间
 - 竖线：当前 Binder 在该指标上的具体数值
-
-
-
-
-上一步：[设计结果解读](./C-02-07-ResultsInterpretation)
-下一步：[Binder 常见问题](./C-02-09-BinderFAQ)
-
-

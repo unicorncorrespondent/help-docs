@@ -86,11 +86,3 @@ Binder 设计任务完成后，系统会生成大量候选结果并提供丰富�
 - 支持按指标排序与条件筛选，操作方式与相互作用分析一致。
 
 具体字段说明请参考 [参数解读](./C-02-07-ResultsInterpretation)。
-
-
----
-
-上一步：[设置设计参数](./C-02-04-DesignParameters)
-下一步：[设计结果解读](./C-02-07-ResultsInterpretation)
-
----

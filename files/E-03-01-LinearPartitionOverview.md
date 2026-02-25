@@ -36,8 +36,12 @@ LinearPartition是世界上最快的RNA配分方程（Partition function）和�
 
 <center>LinearPartition的二级结构预测只需要线性时间</center>
 
----
+## 什么时候选择 LinearPartition？
 
-上一步：[LinearFold 结果解读](./E-02-03-LinearFoldResults.md)
-下一步：[LinearPartition 输入与参数](./E-03-02-LinearPartitionInput.md)
+如果您不仅需要一个单一结构结果，还希望模拟 RNA 序列在平衡态时成千上万种不同结构的分布，并查看每对碱基的配对概率，您可以选择使用LinearPartition。 
 
+当您只需要一个单一结构结果时，您可以选择使用 [LinearFold](./E-02-01-LinearFoldOverview.md) 进行 RNA 二级结构预测。
+
+简而言之：
+- 需要快速获得单一二级结构：使用 LinearFold
+- 需要结构分布与概率分析：使用 LinearPartition

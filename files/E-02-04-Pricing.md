@@ -25,8 +25,3 @@ LinearFold 支持以下支付方式：
 - [计费与价格 - 完整定价信息](./F-02-02-Price.md)
 - [点券系统说明](./F-02-03-CouponExplained.md)
 - [账号管理](./F-02-01-Account.md)
-
-
-上一步：[LinearFold 结果解读](./E-02-03-LinearFoldResults.md)
-
-

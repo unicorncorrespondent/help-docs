@@ -49,8 +49,3 @@
 选择完成后，点击『下载已选预测结果』，则下载的结果中只会包含被选中的分子。
 
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA4vuh8v_O1DpKz5xk_aiXnI.png" alt="img" style="zoom:50%;" />
----
-
-上一步：[数据输入](./D-01-01-ADMETInput)
-下一步：[指标详解](./D-02-01-HelixVS)
-

@@ -16,19 +16,15 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '蛋白质与小分子',
+      label: '蛋白质/多肽药物研发',
+      link: {type: 'doc', id: 'C-00-00-ProteinMain'},
       collapsed: false,
       items: [
         {
-          type: 'doc',
-          id: 'C-00-00-ProteinMain',
-          label: '蛋白质/多肽药物开发',
-        },
-        {
           type: 'category',
           label: '结构预测',
+          link: {type: 'doc', id: 'C-01-00-StructurePredictionOverview'},
           items: [
-            'C-01-00-StructurePredictionOverview',
             'C-01-01-ChoosingModel',
             'C-01-02-Input',
             'C-01-02.5-BatchUpload',
@@ -45,9 +41,9 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'HelixDesign-Binder',
+          label: '小蛋白设计',
+          link: {type: 'doc', id: 'C-02-00-HelixDesignBinder'},
           items: [
-            'C-02-00-HelixDesignBinder',
             'C-02-01-SelectDesignMode',
             'C-02-02-InputTarget',
             'C-02-03-UploadReferenceBinder',
@@ -62,9 +58,9 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'HelixDesign-Antibody',
+          label: '抗体设计',
+          link: {type: 'doc', id: 'C-03-00-HelixDesignAntibody'},
           items: [
-            'C-03-00-HelixDesignAntibody',
             'C-03-01-InputComplex',
             'C-03-02-SelectDesignRegion',
             'C-03-03-UnderstandResults',
@@ -75,8 +71,8 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: '案例教程',
+          link: {type: 'doc', id: 'C-10-00-CaseTutorial'},
           items: [
-            'C-10-00-CaseTutorial',
             'C-10-01-ExampleBackground',
             'C-10-02-LoadingData',
             'C-10-03-InterpretingResults',
@@ -86,19 +82,15 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '小分子药物',
+      label: '小分子药物研发',
+      link: {type: 'doc', id: 'D-00-00-ChemicalMain'},
       collapsed: false,
       items: [
         {
-          type: 'doc',
-          id: 'D-00-00-ChemicalMain',
-          label: '小分子药物开发',
-        },
-        {
           type: 'category',
-          label: 'HelixADMET',
+          label: '小分子 ADMET 性质预测',
+          link: {type: 'doc', id: 'D-01-00-HelixADMET'},
           items: [
-            'D-01-00-HelixADMET',
             'D-01-01-ADMETInput',
             'D-01-02-ADMETResults',
             'D-01-03-Pricing',
@@ -107,8 +99,8 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: '虚拟筛选',
+          link: {type: 'doc', id: 'D-02-01-HelixVS'},
           items: [
-            'D-02-01-HelixVS',
             'D-02-02-InputProtein',
             'D-02-03-DefineBindingSite',
             'D-02-04-MolecularLibrary',
@@ -119,9 +111,9 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'MMGBSA',
+          label: '结合自由能计算',
+          link: {type: 'doc', id: 'D-03-01-MMGBSA'},
           items: [
-            'D-03-01-MMGBSA',
             'D-03-02-MMGBSAInput',
             'D-03-03-MMGBSAParameters',
             'D-03-04-MMGBSAResults',
@@ -130,8 +122,8 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: '分子设计',
+          link: {type: 'doc', id: 'D-04-00-HelixVS-Syn'},
           items: [
-            'D-04-00-HelixVS-Syn',
             'D-04-01-TargetProtein',
             'D-04-02-BindingSite',
             'D-04-03-Scaffold',
@@ -144,19 +136,15 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'mRNA工具',
+      label: 'mRNA 药物研发',
+      link: {type: 'doc', id: 'E-00-00-mRNAMain'},
       collapsed: false,
       items: [
         {
-          type: 'doc',
-          id: 'E-00-00-mRNAMain',
-          label: 'mRNA药物开发',
-        },
-        {
           type: 'category',
-          label: 'LinearFold',
+          label: '二级结构预测',
+          link: {type: 'doc', id: 'E-02-01-LinearFoldOverview'},
           items: [
-            'E-02-01-LinearFoldOverview',
             'E-02-02-LinearFoldInput',
             'E-02-03-LinearFoldResults',
             'E-02-04-Pricing',
@@ -164,9 +152,9 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'LinearPartition',
+          label: '配对概率分布预测',
+          link: {type: 'doc', id: 'E-03-01-LinearPartitionOverview'},
           items: [
-            'E-03-01-LinearPartitionOverview',
             'E-03-02-LinearPartitionInput',
             'E-03-03-LinearPartitionResults',
             'E-03-04-Pricing',
@@ -174,9 +162,9 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'HelixUTRDesign',
+          label: 'UTR设计',
+          link: {type: 'doc', id: 'E-04-01-HelixUTRDesignOverview'},
           items: [
-            'E-04-01-HelixUTRDesignOverview',
             'E-04-02-HelixUTRDesignInput',
             'E-04-03-HelixUTRDesignResults',
             'E-04-04-Pricing',
@@ -184,9 +172,9 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'LinearDesign',
+          label: 'mRNA 序列设计',
+          link: {type: 'doc', id: 'E-05-01-LinearDesignOverview'},
           items: [
-            'E-05-01-LinearDesignOverview',
             'E-05-02-LinearDesignInput',
             'E-05-03-LinearDesignParameters',
             'E-05-04-LinearDesignResults',

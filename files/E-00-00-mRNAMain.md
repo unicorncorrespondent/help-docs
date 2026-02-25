@@ -16,11 +16,3 @@ PaddleHelix 的 mRNA 药物研发工具涵盖了从序列设计到结构验证�
 | **[HelixUTRDesign](./E-04-01-HelixUTRDesignOverview.md)** | 5'UTR 序列生成 | 提升翻译起始效率 |
 | **[LinearFold](./E-02-01-LinearFoldOverview.md)** | RNA 二级结构预测 | 快速预测 RNA 折叠结构 |
 | **[LinearPartition](./E-03-01-LinearPartitionOverview.md)** | 碱基配对概率预测 | 分析结构分布和可能性 |
-
-
----
-
-上一步：[蛋白质结构预测](../C-01-00-StructurePredictionOverview.md)
-下一步：[ADMET 预测](./D-01-00-HelixADMET.md)
-
----

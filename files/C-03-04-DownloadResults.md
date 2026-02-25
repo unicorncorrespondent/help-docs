@@ -40,4 +40,3 @@ antibody_design_results/
 | **InterfaceVis.pml** | PyMOL 可视化脚本 |
 | **all_results.json** | 所有构象的打分结果 |
 | **chain_id_mapping.csv** | 链 ID 对照表 |
-
