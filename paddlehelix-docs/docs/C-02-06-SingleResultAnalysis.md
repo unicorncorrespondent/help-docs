@@ -35,8 +35,6 @@
 
 其中**红色区域**表示对应指标的**警告区间**，提示该指标可能偏低，需要结合具体任务需求进行进一步判断或验证。红色警告区间对应的参考阈值与参数解读见[参数解读](./C-02-07-ResultsInterpretation)。
 
-<img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%B0%8F%E8%9B%8B%E7%99%BD-%E7%BB%93%E6%9E%9C%E9%A1%B5-%E5%8D%95%E9%A1%B9-%E9%9B%B7%E8%BE%BE%E5%9B%BE-%E4%B8%AD%E6%96%87-1d35f240.jpg">
-
 
 结构质量描述（仅供参考）对当前结构给出简要的文字化评价，辅助理解整体表现。
 

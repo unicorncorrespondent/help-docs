@@ -20,9 +20,22 @@ if [ ! -d "$DOCUSAURUS_DIR" ]; then
   exit 1
 fi
 
-rm -f "$TARGET_DIR"/*.md
-
+# Safer sync flow:
+# 1) copy/update source files first
+# 2) remove stale files that are no longer in source
+# This avoids a "delete all then copy" window if the script is interrupted.
 find "$DOCS_SOURCE" -name "*.md" -not -name "README.md" -exec cp {} "$TARGET_DIR/" \;
+
+source_list="$(mktemp)"
+target_list="$(mktemp)"
+find "$DOCS_SOURCE" -maxdepth 1 -name "*.md" -not -name "README.md" -exec basename {} \; | sort > "$source_list"
+find "$TARGET_DIR" -maxdepth 1 -name "*.md" -exec basename {} \; | sort > "$target_list"
+
+while IFS= read -r stale; do
+  rm -f "$TARGET_DIR/$stale"
+done < <(comm -13 "$source_list" "$target_list")
+
+rm -f "$source_list" "$target_list"
 
 count="$(find "$TARGET_DIR" -maxdepth 1 -name "*.md" | wc -l | tr -d ' ')"
 echo "Synced $count markdown files to $TARGET_DIR"
