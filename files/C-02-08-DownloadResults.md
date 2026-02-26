@@ -1,9 +1,6 @@
-
+# 数据下载
 
 <div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
-
-
-# 数据下载
 
 所有设计结果均可通过点击下载按钮获取，下载内容为一个压缩包，包含所有预测相关的文件，具体结构如下：
 

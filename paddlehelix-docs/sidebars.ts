@@ -22,7 +22,7 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: '结构预测（HelixFold3/HelixFold-S1）',
+          label: '结构预测\nHelixFold3/HelixFold-S1',
           link: {type: 'doc', id: 'C-01-00-StructurePredictionOverview'},
           items: [
             {
@@ -121,7 +121,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '小蛋白设计（HelixDesign-Binder）',
+          label: '小蛋白设计\nHelixDesign-Binder',
           link: {type: 'doc', id: 'C-02-00-HelixDesignBinder'},
           items: [
             {
@@ -178,7 +178,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '抗体设计（HelixDesign-Antibody）',
+          label: '抗体设计\nHelixDesign-Antibody',
           link: {type: 'doc', id: 'C-03-00-HelixDesignAntibody'},
           items: [
             {
@@ -223,7 +223,7 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: '小分子 ADMET 性质预测（HelixADMET）',
+          label: '小分子 ADMET 性质预测\nHelixADMET',
           link: {type: 'doc', id: 'D-01-00-HelixADMET'},
           items: [
             'D-01-01-ADMETInput',
@@ -233,7 +233,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '虚拟筛选（HelixVS）',
+          label: '虚拟筛选\nHelixVS',
           link: {type: 'doc', id: 'D-02-01-HelixVS'},
           items: [
             'D-02-02-InputProtein',
@@ -246,7 +246,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '结合自由能计算（MMGBSA）',
+          label: '结合自由能计算\nMMGBSA',
           link: {type: 'doc', id: 'D-03-01-MMGBSA'},
           items: [
             'D-03-02-MMGBSAInput',
@@ -256,7 +256,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '分子设计（HelixVS-Syn）',
+          label: '分子设计\nHelixVS-Syn',
           link: {type: 'doc', id: 'D-04-00-HelixVS-Syn'},
           items: [
             'D-04-01-TargetProtein',
@@ -277,7 +277,7 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: '二级结构预测（LinearFold）',
+          label: '二级结构预测\nLinearFold',
           link: {type: 'doc', id: 'E-02-01-LinearFoldOverview'},
           items: [
             'E-02-02-LinearFoldInput',
@@ -287,7 +287,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '配对概率分布预测（LinearPartition）',
+          label: '配对概率分布预测\nLinearPartition',
           link: {type: 'doc', id: 'E-03-01-LinearPartitionOverview'},
           items: [
             'E-03-02-LinearPartitionInput',
@@ -297,7 +297,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'UTR设计（HelixUTRDesign）',
+          label: 'UTR设计\nHelixUTRDesign',
           link: {type: 'doc', id: 'E-04-01-HelixUTRDesignOverview'},
           items: [
             'E-04-02-HelixUTRDesignInput',
@@ -307,7 +307,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'mRNA 序列设计（LinearDesign）',
+          label: 'mRNA 序列设计\nLinearDesign',
           link: {type: 'doc', id: 'E-05-01-LinearDesignOverview'},
           items: [
             'E-05-02-LinearDesignInput',
