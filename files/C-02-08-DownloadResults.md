@@ -1,8 +1,7 @@
 
 
-:::tip 分类
-结果
-:::
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
 
 # 数据下载
 

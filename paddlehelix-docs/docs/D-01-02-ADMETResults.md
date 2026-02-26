@@ -1,4 +1,7 @@
 # 结果查看与下载
+
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
 > 解读 ADMET 预测结果
 
 完成 ADMET 预测后，正确解读预测结果是药物筛选工作的关键环节。HelixADMET 提供直观的可视化结果展示，包括分子卡片视图和详细的指标页面两种展示方式，帮助您快速识别具有良好成药性特征的候选分子。

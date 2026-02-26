@@ -1,5 +1,8 @@
 # LinearDesign 计费与价格
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 
 LinearDesign 按设计的 mRNA 序列条数进行计费，不同版本价格不同。
 

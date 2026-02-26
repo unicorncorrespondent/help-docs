@@ -1,8 +1,6 @@
 # 输入复合体结构
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 上传抗原-抗体复合物结构文件

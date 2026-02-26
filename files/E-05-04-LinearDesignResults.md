@@ -1,5 +1,8 @@
 # LinearDesign 结果解读
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 理解 CAI/MFE、结构信息与结果下载
 
 <!-- 上一版内容（按要求注释保留，不删除）

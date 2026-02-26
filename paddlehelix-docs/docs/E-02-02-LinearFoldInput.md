@@ -1,5 +1,8 @@
 # LinearFold 输入与参数
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 了解如何配置 LinearFold 的输入数据和运行参数
 
 在进行 LinearFold 预测之前，您需要先准备符合要求的 RNA 序列，并根据任务目标设置参数。本页面将按操作流程介绍输入方式、格式要求与关键参数，帮助您快速完成任务提交。

@@ -1,5 +1,8 @@
 # LinearPartition 结果解读
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 理解 LinearPartition 输出的配对概率结果
 
 完成 LinearPartition 预测后，您可以在在线页面查看配对概率结果，并下载 `.txt` 文件用于后续分析。

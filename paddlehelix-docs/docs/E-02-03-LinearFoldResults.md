@@ -1,5 +1,8 @@
 # LinearFold 结果解读
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 理解 LinearFold 输出的二级结构结果
 
 完成 LinearFold 预测后，您可以在在线页面查看二级结构结果，并下载 `.txt` 文件用于后续分析。

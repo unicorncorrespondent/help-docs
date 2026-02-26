@@ -1,5 +1,8 @@
 # MMGBSA 上传数据
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 上传蛋白和配体结构进行结合能计算
 
 进行 MMGBSA 计算前，您需要准备并上传。蛋白与分子之间的对接并上传对接好的构象文件，包括

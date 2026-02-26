@@ -1,5 +1,8 @@
 # LinearDesign mRNA 序列设计
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 优化 mRNA 稳定性和翻译效率
 
 mRNA 序列设计是 mRNA 药物研发的核心步骤之一。给定同一蛋白序列，理论上可以对应大量不同的 mRNA 变体，而这些变体在稳定性与翻译效率上可能差异显著。因此，mRNA 序列设计对蛋白表达至关重要。在疫苗和蛋白替代疗法场景中，mRNA 序列设计质量会直接影响 mRNA 的结构稳定性与保存表现、目标蛋白表达量与表达效率、后续体内外验证的成功率与迭代效率

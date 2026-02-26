@@ -1,8 +1,6 @@
 # 其他参数配置
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 了解 Recycle、推理数量和输出格式设置

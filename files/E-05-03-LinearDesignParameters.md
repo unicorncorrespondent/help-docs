@@ -1,5 +1,8 @@
 # LinearDesign 参数配置
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 设置 Beam Size、平衡因子 λ 与高级约束
 
 在进行 LinearDesign 任务提交前，合理的参数配置可以帮助您在“稳定性（MFE）”“翻译效率（CAI）”和“计算开销”之间取得更合适的平衡。

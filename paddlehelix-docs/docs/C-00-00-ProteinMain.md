@@ -1,9 +1,6 @@
 # 多肽/蛋白药物研发
 
-:::note 分类
-其他
-:::
-
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 蛋白质是生命活动的执行者，而它们的功能取决于精确的三维空间结构。从氨基酸序列预测蛋白质结构是现代生物学的核心挑战之一，也是药物研发的关键环节。PaddleHelix 平台提供了 HelixFold3 和 HelixFold-S1 两款强大的结构预测模型，能够帮助您快速准确地预测蛋白质及其与其他分子的复合物结构。同时，我们也提供 HelixDesign 模型，帮助您进行抗体与小蛋白的设计。

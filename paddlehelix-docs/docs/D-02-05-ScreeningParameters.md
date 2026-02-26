@@ -1,5 +1,8 @@
 # 筛选参数设置
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 配置虚拟筛选的条件与约束
 
 

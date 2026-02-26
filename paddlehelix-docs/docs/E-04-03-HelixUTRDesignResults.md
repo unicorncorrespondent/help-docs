@@ -1,5 +1,8 @@
 # HelixUTRDesign 结果解读
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 理解 HelixUTRDesign 输出结果和核糖载量指标
 
 完成 HelixUTRDesign 预测后，您可以在在线页面查看候选 5'UTR 及其关键指标，并下载 `.txt` 结果文件用于后续筛选与实验设计。

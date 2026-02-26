@@ -1,8 +1,6 @@
 # 添加修饰
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 为蛋白质、DNA 或 RNA 添加化学修饰

@@ -1,5 +1,8 @@
 # 更新日志
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 了解 PaddleHelix 平台的版本更新和功能改进
 
 PaddleHelix 平台持续迭代更新，不断引入新的功能和优化现有模块的性能。了解平台的更新历史有助于您掌握最新的功能特性和改进内容，确保您能够充分利用平台提供的各项能力。本页面记录了 PaddleHelix 从 2.0 版本到 3.0 版本的重大更新，包括新功能上线、性能优化和界面改进等信息。

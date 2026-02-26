@@ -1,5 +1,8 @@
 # MMGBSA 参数配置
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 设置广义 Born 模型和模拟参数
 
 上传数据后，您需要配置 MMGBSA 计算的参数以获得最佳结果。螺旋桨平台提供3个计算参数，便于您进行设置。

@@ -1,5 +1,8 @@
 # 联系我们
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 获取技术支持或商务合作咨询
 
 如果您在使用 PaddleHelix 平台过程中遇到问题，或希望了解企业级服务与合作方案，可通过以下方式与我们联系。

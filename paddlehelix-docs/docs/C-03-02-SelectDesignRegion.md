@@ -1,8 +1,6 @@
 # 选择设计链和区域
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 配置抗体的设计参数

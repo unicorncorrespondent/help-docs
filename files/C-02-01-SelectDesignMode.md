@@ -1,8 +1,6 @@
 # 选择设计模式
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 **从头设计 vs 基于参考 Binder 设计**

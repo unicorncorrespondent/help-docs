@@ -1,8 +1,6 @@
 # 设置设计参数
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 **配置 Binder 长度和逆折叠方法**

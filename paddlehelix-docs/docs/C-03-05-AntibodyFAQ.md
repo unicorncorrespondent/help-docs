@@ -1,8 +1,6 @@
 # 抗体设计 FAQ
 
-:::note 分类
-其他
-:::
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 > 常见问题解答

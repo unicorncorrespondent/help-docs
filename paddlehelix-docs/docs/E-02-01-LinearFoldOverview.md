@@ -1,5 +1,8 @@
 # LinearFold 概述
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 线性时间 RNA 二级结构预测算法
 
 RNA 二级结构直接影响分子的稳定性、翻译效率与分子互作过程。无论是 mRNA 药物设计、非编码 RNA 功能研究，还是病毒 RNA 结构分析，都需要先理解碱基配对与局部折叠模式，才能更可靠地解释实验现象并指导后续优化。因此，RNA 二级结构预测是生物信息学中的基础任务之一，对于理解 RNA 的功能机制具有重要意义。

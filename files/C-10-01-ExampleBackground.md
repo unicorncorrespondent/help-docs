@@ -1,8 +1,6 @@
 # 案例背景
 
-:::note 分类
-其他
-:::
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 在本教程中，我们将使用 BRD4-BD1，VCB 和 PROTAC 49 复合物（PDB：[8BEB](https://www.rcsb.org/structure/8BEB)）的相互作用预测作为案例，了解螺旋桨平台与 HelixFold3 能够如何助力科研与药物研发。

@@ -1,5 +1,8 @@
 # 账号等级与身份说明
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 为了提供更灵活的服务，螺旋桨平台对账号体系进行了升级。平台账号等级分为**基础版**和**高级版**（原商业账号），同时针对科研群体推出了**学术身份认证**，让大家能够在指定模块下享受更多优惠。
 
 

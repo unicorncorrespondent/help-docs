@@ -1,5 +1,8 @@
 # HelixUTRDesign 输入与参数
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 了解如何配置 HelixUTRDesign 的输入数据和参数
 
 在进行 HelixUTRDesign 任务提交前，您需要准备符合格式要求的 CDS 序列，并根据目标场景设置 UTR 长度等参数。

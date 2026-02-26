@@ -1,5 +1,8 @@
 # 点券系统
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 了解点券使用与获取规则，充分利用平台优惠
 
 点券是 PaddleHelix 平台提供的虚拟代金券，可用于抵扣平台任务费用。本页面汇总点券的获取方式、类型说明、使用规则与查询方法，帮助您清晰了解点券机制并合理使用。

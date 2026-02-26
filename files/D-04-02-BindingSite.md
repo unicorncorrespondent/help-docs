@@ -1,5 +1,8 @@
 # 定义结合位点
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
  定义结合位点
 
 > 设定蛋白口袋进行分子对接

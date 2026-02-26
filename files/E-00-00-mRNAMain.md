@@ -1,5 +1,8 @@
 # mRNA 药物研发
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 用 AI 技术进行 mRNA 序列设计、优化和结构预测
 
 mRNA 药物研发是当前生物医药领域最具潜力的新兴技术之一。从 mRNA 疫苗到蛋白替代疗法，mRNA 技术正在革新疾病预防和治疗方式。PaddleHelix 提供完整的 mRNA 药物研发工具链，帮助研究人员利用人工智能技术设计和优化 mRNA 序列，提升 mRNA 的稳定性和翻译效率，从而加速药物研发进程。

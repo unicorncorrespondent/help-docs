@@ -1,5 +1,8 @@
 # LinearPartition 输入
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 了解如何配置 LinearPartition 的输入数据
 
 

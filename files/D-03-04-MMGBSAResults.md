@@ -1,5 +1,8 @@
 # MMGBSA 查看结果
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 解读结合自由能计算结果
 
 ## 结果展示

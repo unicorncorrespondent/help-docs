@@ -1,5 +1,8 @@
 # 欢迎使用螺旋桨 Paddle Helix!
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 用 AI 助力生命科学与药物研发
 
 螺旋桨 Paddle Helix 是百度打造的高性能 AI 生物计算平台。基于文心生物计算大模型，螺旋桨通过结合百度智能云高性能计算集群，赋能小分子药物发现、蛋白质设计、抗体药物设计、蛋白质结构预测、疫苗设计等应用场景，加速新分子发现与新药物突破。

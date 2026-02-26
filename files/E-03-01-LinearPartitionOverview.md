@@ -1,5 +1,8 @@
 # LinearPartition 概述
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 世界最快的 RNA 碱基配对概率预测算法
 
 

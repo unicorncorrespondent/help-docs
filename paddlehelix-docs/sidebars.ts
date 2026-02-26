@@ -28,52 +28,52 @@ const sidebars: SidebarsConfig = {
             {
               type: 'doc',
               id: 'C-01-01-ChoosingModel',
-              label: '【其他】模型选择',
+              label: '模型选择',
             },
             {
               type: 'doc',
               id: 'C-01-02-Input',
-              label: '【输入】序列输入',
+              label: '序列输入',
             },
             {
               type: 'doc',
               id: 'C-01-02.5-BatchUpload',
-              label: '【输入】批量任务',
+              label: '批量任务',
             },
             {
               type: 'doc',
               id: 'C-01-03-Modification',
-              label: '【输入】添加修饰',
+              label: '添加修饰',
             },
             {
               type: 'doc',
               id: 'C-01-04-ForcedInteraction',
-              label: '【输入】指定相互作用',
+              label: '指定相互作用',
             },
             {
               type: 'doc',
               id: 'C-01-05-SamplingConstrains',
-              label: '【输入】限定采样范围',
+              label: '限定采样范围',
             },
             {
               type: 'doc',
               id: 'C-01-06-UploadReference',
-              label: '【输入】上传参考结构',
+              label: '上传参考结构',
             },
             {
               type: 'doc',
               id: 'C-01-07-OtherParameters',
-              label: '【输入】其他参数配置',
+              label: '其他参数配置',
             },
             {
               type: 'doc',
               id: 'C-01-08-ViewingResults',
-              label: '【结果】查看结构预测结果',
+              label: '查看结构预测结果',
             },
             {
               type: 'doc',
               id: 'C-01-09-InterpretResults',
-              label: '【结果】结果解读与下载',
+              label: '结果解读与下载',
             },
             {
               type: 'category',
@@ -83,39 +83,39 @@ const sidebars: SidebarsConfig = {
                 {
                   type: 'doc',
                   id: 'C-10-01-ExampleBackground',
-                  label: '【其他】案例背景',
+                  label: '案例背景',
                 },
                 {
                   type: 'doc',
                   id: 'C-10-02-LoadingData',
-                  label: '【输入】输入数据',
+                  label: '输入数据',
                 },
                 {
                   type: 'doc',
                   id: 'C-10-03-InterpretingResults',
-                  label: '【结果】结果解读',
+                  label: '结果解读',
                 },
               ],
             },
             {
               type: 'doc',
               id: 'C-01-10-FAQ',
-              label: '【其他】常见问题',
+              label: '常见问题',
             },
             {
               type: 'doc',
               id: 'C-01-02.6-JSONInputOutput',
-              label: '【其他】JSON 输入输出说明',
+              label: 'JSON 输入输出说明',
             },
             {
               type: 'doc',
               id: 'C-01-02.7-APISDKGuide',
-              label: '【其他】API&SDK说明',
+              label: 'API&SDK说明',
             },
             {
               type: 'doc',
               id: 'C-01-11-Pricing',
-              label: '【其他】计费与价格',
+              label: '计费与价格',
             },
           ],
         },
@@ -127,52 +127,52 @@ const sidebars: SidebarsConfig = {
             {
               type: 'doc',
               id: 'C-02-01-SelectDesignMode',
-              label: '【输入】选择设计模式',
+              label: '选择设计模式',
             },
             {
               type: 'doc',
               id: 'C-02-02-InputTarget',
-              label: '【输入】输入靶点',
+              label: '输入靶点',
             },
             {
               type: 'doc',
               id: 'C-02-03-UploadReferenceBinder',
-              label: '【输入】上传参考Binder',
+              label: '上传参考Binder',
             },
             {
               type: 'doc',
               id: 'C-02-04-DesignParameters',
-              label: '【输入】设计参数',
+              label: '设计参数',
             },
             {
               type: 'doc',
               id: 'C-02-05-ResultsOverview',
-              label: '【结果】结果总览',
+              label: '结果总览',
             },
             {
               type: 'doc',
               id: 'C-02-06-SingleResultAnalysis',
-              label: '【结果】单项结果分析',
+              label: '单项结果分析',
             },
             {
               type: 'doc',
               id: 'C-02-07-ResultsInterpretation',
-              label: '【结果】结果解读',
+              label: '结果解读',
             },
             {
               type: 'doc',
               id: 'C-02-08-DownloadResults',
-              label: '【结果】下载结果',
+              label: '下载结果',
             },
             {
               type: 'doc',
               id: 'C-02-09-BinderFAQ',
-              label: '【其他】常见问题',
+              label: '常见问题',
             },
             {
               type: 'doc',
               id: 'C-02-10-Pricing',
-              label: '【其他】计费与价格',
+              label: '计费与价格',
             },
           ],
         },
@@ -184,32 +184,32 @@ const sidebars: SidebarsConfig = {
             {
               type: 'doc',
               id: 'C-03-01-InputComplex',
-              label: '【输入】输入复合体结构',
+              label: '输入复合体结构',
             },
             {
               type: 'doc',
               id: 'C-03-02-SelectDesignRegion',
-              label: '【输入】选择设计链和区域',
+              label: '选择设计链和区域',
             },
             {
               type: 'doc',
               id: 'C-03-03-UnderstandResults',
-              label: '【结果】查看结果与参数解读',
+              label: '查看结果与参数解读',
             },
             {
               type: 'doc',
               id: 'C-03-04-DownloadResults',
-              label: '【结果】下载结果',
+              label: '下载结果',
             },
             {
               type: 'doc',
               id: 'C-03-05-AntibodyFAQ',
-              label: '【其他】抗体设计FAQ',
+              label: '抗体设计FAQ',
             },
             {
               type: 'doc',
               id: 'C-03-06-Pricing',
-              label: '【其他】计费与价格',
+              label: '计费与价格',
             },
           ],
         },
@@ -223,7 +223,7 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: '小分子 ADMET 性质预测',
+          label: '小分子 ADMET 性质预测（HelixADMET）',
           link: {type: 'doc', id: 'D-01-00-HelixADMET'},
           items: [
             'D-01-01-ADMETInput',
@@ -233,7 +233,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '虚拟筛选',
+          label: '虚拟筛选（HelixVS）',
           link: {type: 'doc', id: 'D-02-01-HelixVS'},
           items: [
             'D-02-02-InputProtein',
@@ -246,7 +246,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '结合自由能计算',
+          label: '结合自由能计算（MMGBSA）',
           link: {type: 'doc', id: 'D-03-01-MMGBSA'},
           items: [
             'D-03-02-MMGBSAInput',
@@ -256,7 +256,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '分子设计',
+          label: '分子设计（HelixVS-Syn）',
           link: {type: 'doc', id: 'D-04-00-HelixVS-Syn'},
           items: [
             'D-04-01-TargetProtein',
@@ -277,7 +277,7 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: '二级结构预测',
+          label: '二级结构预测（LinearFold）',
           link: {type: 'doc', id: 'E-02-01-LinearFoldOverview'},
           items: [
             'E-02-02-LinearFoldInput',
@@ -287,7 +287,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: '配对概率分布预测',
+          label: '配对概率分布预测（LinearPartition）',
           link: {type: 'doc', id: 'E-03-01-LinearPartitionOverview'},
           items: [
             'E-03-02-LinearPartitionInput',
@@ -297,7 +297,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'UTR设计',
+          label: 'UTR设计（HelixUTRDesign）',
           link: {type: 'doc', id: 'E-04-01-HelixUTRDesignOverview'},
           items: [
             'E-04-02-HelixUTRDesignInput',
@@ -307,7 +307,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'mRNA 序列设计',
+          label: 'mRNA 序列设计（LinearDesign）',
           link: {type: 'doc', id: 'E-05-01-LinearDesignOverview'},
           items: [
             'E-05-02-LinearDesignInput',

@@ -1,8 +1,6 @@
 # 限定采样范围
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 限制 HelixFold-S1 模型的接触评估范围

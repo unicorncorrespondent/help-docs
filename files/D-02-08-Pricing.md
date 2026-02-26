@@ -1,5 +1,8 @@
 # HelixVS 计费与价格
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 
 HelixVS 虚拟筛选仅支持商业分子库，按次计费或按分子数计费。
 

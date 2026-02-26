@@ -1,8 +1,6 @@
 # 上传参考结构
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 利用已知结构提升预测精度

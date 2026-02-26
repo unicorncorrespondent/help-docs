@@ -1,5 +1,8 @@
 # HelixVS-Syn 计费与价格
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 
 HelixVS-Syn 分子设计提供两种模式，按次计费。
 

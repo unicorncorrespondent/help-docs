@@ -1,5 +1,8 @@
 # 输入数据
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 上传 SMILES 分子进行 ADMET 预测
 
 ## 输入方式

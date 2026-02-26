@@ -1,5 +1,8 @@
 ## 下载结果
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 点击页面右上角的 **「下载」** 按钮即可下载所有结果，包含以下内容：
 
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA7_nbEgve1LIZ-vW97AyaCL.png" alt="img" style="zoom:50%;" />

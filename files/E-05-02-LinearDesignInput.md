@@ -1,5 +1,8 @@
 # LinearDesign 输入序列
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 上传蛋白或 mRNA 序列进行设计
 
 <!-- 旧版内容（按要求注释保留，不删除）

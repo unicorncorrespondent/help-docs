@@ -1,5 +1,8 @@
 # 定义结合位点
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 设定蛋白口袋进行分子对接
 
 确定蛋白质上的配体结合位置是虚拟筛选的关键步骤之一。结合位点（也称"口袋"或"结合口袋"）是蛋白表面适合小分子配体结合的凹陷区域，只有准确定义这个区域，分子对接程序才能评估小分子与蛋白的结合模式。

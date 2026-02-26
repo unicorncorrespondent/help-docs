@@ -1,9 +1,6 @@
 # 结果总览
 
-:::tip 分类
-结果
-:::
-
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
 
 
 Binder 设计任务完成后，系统会生成大量候选结果并提供丰富的展示功能。结果总览页用于展示**本次设计产生的全部候选 Binder 结果**，帮助您从整体层面快速判断：

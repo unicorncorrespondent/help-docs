@@ -28,3 +28,55 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.doc-page-type {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 8px 0 16px;
+  border: 1px solid transparent;
+}
+
+.doc-page-type__icon {
+  line-height: 1;
+}
+
+.doc-page-type--input {
+  background: #ecfdf3;
+  color: #086c43;
+  border-color: #b7ebcf;
+}
+
+.doc-page-type--result {
+  background: #eff6ff;
+  color: #1e4fa8;
+  border-color: #bfd7ff;
+}
+
+.doc-page-type--other {
+  background: #f5f3ff;
+  color: #5a35a2;
+  border-color: #d8c9ff;
+}
+
+[data-theme='dark'] .doc-page-type--input {
+  background: rgba(10, 145, 85, 0.2);
+  color: #7df0be;
+  border-color: rgba(125, 240, 190, 0.35);
+}
+
+[data-theme='dark'] .doc-page-type--result {
+  background: rgba(46, 117, 255, 0.2);
+  color: #9cc1ff;
+  border-color: rgba(156, 193, 255, 0.35);
+}
+
+[data-theme='dark'] .doc-page-type--other {
+  background: rgba(147, 99, 255, 0.2);
+  color: #cfb5ff;
+  border-color: rgba(207, 181, 255, 0.35);
+}

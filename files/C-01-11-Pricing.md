@@ -1,9 +1,6 @@
 # HelixFold3 计费与价格
 
-:::note 分类
-其他
-:::
-
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 HelixFold3 采用**算力单元**计费模式，按照实际消耗的算力进行收费。

@@ -1,5 +1,8 @@
 # HelixUTRDesign 概述
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 根据 CDS 序列生成高效的 5'UTR 序列
 
 5'UTR 位于起始密码子上游，包含多类翻译调控信号，因此5'UTR 设计是提升 mRNA 表达效率的关键步骤之一。相比仅优化 CDS，5'UTR 优化可以直接影响翻译起始效率、核糖体装载水平和整体蛋白产量，是 mRNA 药物研发中的高价值环节。对于疫苗、蛋白替代疗法和表达优化任务，5'UTR 往往是决定性能上限的重要因素。

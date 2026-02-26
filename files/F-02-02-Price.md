@@ -1,5 +1,8 @@
 # 计费与价格
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 
 PaddleHelix 平台采用按模块计费模式。普通账户可免费升级为高级版，高级版支持提交计费任务。计费模块优先使用点券抵扣，余额不足时自动从百度云账户余额扣费。
 

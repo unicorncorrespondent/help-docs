@@ -1,8 +1,6 @@
 # 结构预测
 
-:::note 分类
-其他
-:::
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 > 了解如何使用 HelixFold3 和 HelixFold-S1 预测各种生物分子的三维结构与相互作用

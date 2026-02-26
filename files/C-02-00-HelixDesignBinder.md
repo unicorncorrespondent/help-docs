@@ -1,8 +1,6 @@
 # 小蛋白设计
 
-:::note 分类
-其他
-:::
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 > 基于 HelixFold3 的蛋白结合肽设计系统

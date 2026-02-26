@@ -1,5 +1,8 @@
 # HelixADMET 计费与价格
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 
 HelixADMET 支持按分子数量计费和按量包计费两种方式。
 

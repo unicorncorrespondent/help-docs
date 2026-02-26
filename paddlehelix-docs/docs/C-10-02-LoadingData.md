@@ -1,8 +1,6 @@
 # 输入数据与任务提交
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 在 HelixFold3 中输入各种生物分子信息，以及提交任务

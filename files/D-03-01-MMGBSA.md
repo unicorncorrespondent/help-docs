@@ -1,5 +1,8 @@
 # MMGBSA 结合自由能计算
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 基于分子动力学的蛋白-小分子结合能精确计算
 
 MMGBSA（Molecular Mechanics Generalized Born Surface Area）是一种结合自由能计算方法，结合了：

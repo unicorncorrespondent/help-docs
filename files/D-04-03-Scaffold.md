@@ -1,5 +1,8 @@
 # 定义骨架与生长位点
 
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
+
+
 > 设置分子设计的起始骨架和生长位点
 
 完成结合位点定义后，需要指定分子设计的起始骨架和生长位点。骨架是分子设计的起点，生长位点是新片段将要连接的位置。HelixVS-Syn提供两种方式输入骨架与生长位点：

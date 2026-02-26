@@ -1,5 +1,8 @@
 # HelixADMET
 
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
+
+
 > 基于深度学习的小分子 ADMET 性质预测
 
 在小分子药物研发过程中，化合物的成药性评估是决定项目成败的关键环节。HelixADMET 是百度螺旋桨团队研发的端到端 ADMET 预测系统，能够快速准确地预测化合物的吸收、分布、代谢、排泄和毒性性质，帮助研究人员在药物研发早期筛选出具有良好成药性的候选分子，大幅提高研发效率并降低后期失败风险。

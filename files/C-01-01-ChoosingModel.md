@@ -1,8 +1,6 @@
 # 模型选择
 
-:::note 分类
-其他
-:::
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 > 根据您的研究目标选择合适的结构预测模型

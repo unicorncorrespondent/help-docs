@@ -1,8 +1,6 @@
 # 结果解读
 
-:::tip 分类
-结果
-:::
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
 
 
 > 快速解读 HelixFold3 预测结果

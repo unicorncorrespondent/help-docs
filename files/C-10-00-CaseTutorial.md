@@ -1,8 +1,6 @@
 # 快速上手
 
-:::note 分类
-其他
-:::
+<div class="doc-page-type doc-page-type--other"><span class="doc-page-type__icon">🧭</span><span>分类：其他</span></div>
 
 
 > 通过实际案例熟悉螺旋桨平台与 HelixFold3

@@ -1,8 +1,6 @@
 # 指定相互作用
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 > 使用距离约束提高互作预测精度

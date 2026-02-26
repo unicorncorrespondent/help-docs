@@ -1,5 +1,8 @@
 # 查看结果
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 解读分子设计结果与各项指标
 
 完成分子设计任务后，您可以在结果页面查看生成的分子的各项指标和性质。

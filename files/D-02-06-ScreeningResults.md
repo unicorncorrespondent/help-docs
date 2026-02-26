@@ -1,5 +1,8 @@
 # 查看与解读结果
 
+<div class="doc-page-type doc-page-type--result"><span class="doc-page-type__icon">📊</span><span>分类：结果</span></div>
+
+
 > 解读虚拟筛选的对接结果
 
 完成虚拟筛选任务后，您需要解读对接结果以筛选出有潜力的候选分子。本节将详细介绍如何查看和解读 HelixVS 的对接结果，包括分子列表浏览、3D 构象查看、打分指标解读以及高质量候选分子的筛选策略。

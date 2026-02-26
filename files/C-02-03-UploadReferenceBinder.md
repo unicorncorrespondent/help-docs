@@ -1,8 +1,6 @@
 # 设置参考 Binder
 
-:::info 分类
-输入
-:::
+<div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
 **上传并配置参考 Binder 结构（仅基于参考模式）**
