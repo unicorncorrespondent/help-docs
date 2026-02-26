@@ -1,5 +1,10 @@
 # 序列输入
 
+:::info 分类
+输入
+:::
+
+
 > 了解如何输入蛋白质、核酸、小分子等实体数据
 
 HelixFold3 支持多种类型的生物分子实体输入，包括蛋白质、DNA、RNA、小分子配体和离子。本节将详细介绍各类实体的输入格式要求。
@@ -62,12 +67,14 @@ HelixFold3 支持多种类型的生物分子实体输入，包括蛋白质、DNA
 </table>
 
 
-> ^ 水、助剂和少量特殊的配体目前是模型所不支持的，我们会将这些配体从CCD列表中除去，如果您通过输入SMILES的方式进行了这些输入，可能会造成结果的表现下降。具体不支持的配体的CCD列表参见 [这个部分](https://paddlehelix.baidu.com/app/tut/guide/all/helixfold3json#c534b18)。
+:::tip 提示
+水、助剂和少量特殊配体目前不被模型支持，系统会将这些配体从 CCD 列表中除去。若您改用 SMILES 输入这些分子，预测效果可能下降。具体不支持的 CCD 列表见 [这个部分](https://paddlehelix.baidu.com/app/tut/guide/all/helixfold3json#c534b18)。
+:::
 
-> ⚠️ 注意:
-> - HelixFold-S1 仅支持多链复合物，输入需包含至少两条实体，或一条实体但数量为 2。
-> - 限制总 token 数量：不超过 3000
-  （token 数计算方式详见[数据说明](https://paddlehelix.baidu.com/app/tut/guide/all/helixfold3json)中的 JSON 结构说明）
+:::caution 注意
+- HelixFold-S1 仅支持多链复合物，输入需包含至少两条实体，或一条实体但数量为 2。
+- 限制总 token 数量：不超过 3000（token 数计算方式详见[数据说明](https://paddlehelix.baidu.com/app/tut/guide/all/helixfold3json)中的 JSON 结构说明）。
+:::
 
 
 ## 数据预览

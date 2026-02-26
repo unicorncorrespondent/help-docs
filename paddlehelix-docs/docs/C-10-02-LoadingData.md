@@ -1,5 +1,10 @@
 # 输入数据与任务提交
 
+:::info 分类
+输入
+:::
+
+
 > 在 HelixFold3 中输入各种生物分子信息，以及提交任务
 
 在了解结构预测将如何助力生物医学研究后，我们现在开始正式使用 HelixFold3。在本章中，我们将了解如何在 HelixFold3 中输入基本数据，以及如何提交任务。
@@ -52,8 +57,9 @@ SMNPPPPETSNPNKPKRQTNQLQYLLRVVLKTLWKHQFAWPFQQPVDAVKLNLPDYYKIIKTPMDMGTIKKRLENNYYWN
 
 在完成数据输入后，我们可以输入任务名称（选填），随后点击「提交运算」，运算预计需要 2 分钟。具体进度可以通过「任务管理」页面查看。
 
-## 可选参数（进阶）
+## 可选参数
 
+:::info 进阶内容
 虽然在本教程中没有涉及，但是 HelixFold3 支持对序列与任务进行许多进阶操作，以满足不同需求：
 
 - [批量提交任务](./C-01-02-Input)：通过 JSON 文件批量提交多个任务
@@ -61,5 +67,6 @@ SMNPPPPETSNPNKPKRQTNQLQYLLRVVLKTLWKHQFAWPFQQPVDAVKLNLPDYYKIIKTPMDMGTIKKRLENNYYWN
 - [相互作用约束](./C-01-04-ForcedInteraction)：通过已有知识限定不同分子间的相互作用位点，提高预测准确率
 - [上传参考结构](./C-01-06-UploadReference)：上传与待预测蛋白相似的已知结构，大幅提高预测精度
 - [其他参数](./C-01-07-OtherParameters)：包括 Recycle 数量、推理数量、输出格式等
+:::
 
 在等待任务完成的过程中，欢迎点击链接进入对应页面进行了解。
