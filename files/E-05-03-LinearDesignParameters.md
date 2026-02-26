@@ -3,7 +3,9 @@
 <div class="doc-page-type doc-page-type--input"><span class="doc-page-type__icon">🧪</span><span>分类：输入</span></div>
 
 
-> 设置 Beam Size、平衡因子 λ 与高级约束
+:::info 进阶说明
+设置 Beam Size、平衡因子 λ 与高级约束。
+:::
 
 在进行 LinearDesign 任务提交前，合理的参数配置可以帮助您在“稳定性（MFE）”“翻译效率（CAI）”和“计算开销”之间取得更合适的平衡。
 
@@ -38,7 +40,7 @@ Beam Size 决定搜索过程中保留的候选路径数量：
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/infoflow%202022-12-20%2018-02-29-b79b62db.png" alt="img" style="zoom:25%;" />
 
-## 高级参数（Advance 版本）
+:::info 高级参数（Advance 版本）
 
 ### 茎环限制（S1 / S2）
 
@@ -63,6 +65,7 @@ Advance 版本支持更多工程化约束：
 - 指定 5'UTR / 3'UTR，按既定调控背景进行 CDS 设计
 - 排除指定核酸内切酶位点，适配后续工艺要求
 - 上传自定义密码子表，适配特定物种或表达系统
+:::
 
 ## 版本支持对照
 
