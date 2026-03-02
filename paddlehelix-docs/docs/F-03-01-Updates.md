@@ -449,7 +449,9 @@ HelixADMET现在可以通过API来调用啦！另外，蛋白复合物预测和H
 
 ## 2.16版本 - 2023.05.31 上线
 
+:::tip
 本版本正式支持百度商业账户的登录，并上线了用户问卷组件。积极参与还可以获得免费的平台任务次数哦，欢迎大家对螺旋桨提出建议和意见。
+:::
 
 
 
@@ -1543,7 +1545,9 @@ ADMET预测使用基线模型的结果页展示中，有PAINS预警的结构会�
 
 - 意见反馈表单
 
+:::tip
 可以在首页底部找到反馈入口，直接给我们发送建议或意见。
+:::
 
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA7jUVAovipD4KZoFOAFknqt.png" alt="img" style="zoom:30%;" />
 

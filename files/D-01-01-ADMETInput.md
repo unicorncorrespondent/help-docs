@@ -21,9 +21,11 @@
 
 ### 方式三：上传文档
 
+:::tip
 对于需要预测大量分子（超过 100 个）的场景，建议通过上传文档的方式进行批量输入。您可以上传两种格式的分析数据：
 - .csv文件：包含最多1000个SMILES表达式，每个SMILES分子独占一行
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA4XETKaHjtJwZ1vdrXV4Yx1.png" style="zoom:50%;" />
 - .txt文件：包含最多1000个SMILES表达式，每个SMILES分子独占一行
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA63k0WZl_pKXYebYuOC0IXw.png" style="zoom:50%;" />
 > 可以点击“上传范本下载”查看示例文件
+:::

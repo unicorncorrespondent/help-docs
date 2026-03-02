@@ -18,7 +18,9 @@ HelixVS 支持从 RCSB PDB 数据库搜索已有结构，也可以上传本地�
 
 <img src="https://easydl-download.bj.bcebos.com/helix_doc/AgAACoBIFA5CtfL2dl1G_bTtnE7AzVwG.png" style="zoom:80%;" />
 
+:::tip
 2. **选择目标蛋白**：从下拉菜单中选择目标结构。如果搜索结果有多个相似的结构，建议选择分辨率较高、完整度较好的那个
+:::
 
 3. **预览结构**：下方的 3D 视窗会显示加载的蛋白质结构
 
@@ -50,4 +52,6 @@ HelixVS 支持从 RCSB PDB 数据库搜索已有结构，也可以上传本地�
 
 ## 使用示例
 
+:::tip
 如果您是第一次使用 HelixVS，建议先点击「使用示例」按钮加载平台提供的示例靶蛋白。这可以帮助您快速熟悉整个虚拟筛选流程，而无需准备自己的蛋白结构。
+:::

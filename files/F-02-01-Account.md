@@ -39,14 +39,18 @@
 
 或者按照以下步骤进行手动操作：
 
+:::tip
 1. **实名认证**： 如果您的账号还没有完成实名认证，请先[完成实名认证](https://console.bce.baidu.com/iam/#/iam/baseinfo)。
    - 您可以选择个人认证或企业认证。
    - *提示：二者后期均可开发票，但个人认证无法开具增值税专用发票，请确认报销规范后按需选择。*
+:::
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E6%88%AA%E5%B1%8F2025-02-25%2010-93901e05.png" alt="miaoshu" style="zoom:26%;" />
 
+:::tip
 2. 开通服务：前往[开通页](https://console.bce.baidu.com/chpc/#/landing)，勾选并开通 **CHPC 服务**。
    **重要提示**：点击“立即开通”后，页面可能会提示“开通成功”并自动跳转至“创建集群”页面。**此时无需进行任何操作**，请直接关闭该页面并返回螺旋桨站点即可。
+:::
 
 <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%BC%80%E9%80%9Achpc%20%E4%B8%AD%E6%96%87-c21a5078.jpg" style="zoom:30%;" />
 
@@ -66,11 +70,15 @@
 
   <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8D%A1%E7%89%87%E5%AD%A6%E6%9C%AF%E6%A0%87%E8%AF%86%20%E4%B8%AD%E6%96%87-6cf3aa5c.jpg" style="zoom:70%;" />
 
+:::tip
 - **优惠生效**：当学术优惠生效时，底部计费栏中会提示“学术优惠”价格。
+:::
 
   <img src="https://bml-test-test.bj.bcebos.com/helix_upload/%E8%AE%A1%E8%B4%B9%E6%A0%8F%20%E5%AD%A6%E6%9C%AF%E4%BC%98%E6%83%A0%20%E4%B8%AD%E6%96%87-bab33ba0.jpg" style="zoom:50%;" />
 
+:::warning
 - **注意**：
+:::
 
   - 认证学术身份前，必须先将账号[升级为高级版](#升级高级版)。
   - **学术优惠与点券不可同时使用**。仅在未使用点券抵扣、全额以余额支付时才可享受学术优惠。

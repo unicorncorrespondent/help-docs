@@ -25,7 +25,9 @@ RNA 在细胞内通常不是“只有一种结构”，而是在多个候选结�
 
 ## LinearPartition 核心能力
 
+:::info
 LinearPartition是世界上最快的RNA配分方程（Partition function）和碱基对概率（base paring probability）预测算法。作为LinearFold的进阶，LinearPartition不但继承了前者展示出的线性预测时间和更佳的准确率、覆盖率、灵敏度的优良表现，还能够模拟RNA序列在平衡态时成千上万种不同结构的分布。
+:::
 
 
 | 能力 | 说明 | 应用价值 |
